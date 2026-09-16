@@ -1,4 +1,4 @@
-# 👋 Welcome to Sithumini's Software Engineering Journey ✨
+# 👋 Welcome to My Software Engineering Journey ✨
 
 <div align="center">
 
@@ -131,26 +131,14 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sithumini-Anuhansi&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithumini-Anuhansi&layout=compact&hide_border=true" height="165"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Higher National Diploma in Software Engineering**
-🏫 National Institute of Business Management (NIBM)
+(NIBM)
 📊 GPA: **3.83 — Ongoing**
 
 **Diploma in Software Engineering**
-🏫 National Institute of Business Management (NIBM)
+(NIBM)
 📊 GPA: **3.94**
 
 ---
