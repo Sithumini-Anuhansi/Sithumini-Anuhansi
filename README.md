@@ -1,6 +1,6 @@
-# 👋 Welcome to My Software Engineering Journey ✨
-
 <div align="center">
+  
+# 👋 Welcome to My Software Engineering Journey ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Solutions" />
 
@@ -11,6 +11,10 @@
 Building practical applications across **full-stack development, AI/ML, mobile development, IoT, and cloud technologies.**
 
 <br>
+
+## 🔥 My GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=Sithumini-Anuhansi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
@@ -30,29 +34,48 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 ## 🛠️ Tech Stack
 
-### 💻 Development
+### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,spring,php,laravel" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,react,nodejs,express,tailwindcss,spring,dotnet,c,php,laravel" />
 </p>
 
-### 🗄️ Databases & Cloud
+`C#` • `OOP`•`Spring Boot` • `.NET` • `MVC`
+
+### Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,oracle,firebase,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,docker,git,github" />
 </p>
 
-### 🤖 AI & Data
+`Oracle`
+
+### AI & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,flask" />
 </p>
 
-`Scikit-learn` • `Pandas` • `NumPy` • `Flask` • `AI Chatbots` • `Machine Learning`
+`Pandas` • `NumPy` • `AI Chatbots` • `Machine Learning` • `Google Colab`
 
-### 📱 Other Technologies
+### Mobile & IoT
 
-`Android` • `REST APIs` • `Microservices` • `JWT` • `JDBC` • `Agile/Scrum` • `CI/CD`
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,arduino,cpp" />
+</p>
+
+`XML` • `Android Studio` • `IoT` • `Arduino / ESP32`
+
+### Tools & Environments
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,postman,windows,vercel" />
+
+`NetBeans` • `Cursor` • `Claude` • `Lovable`
+
+### Other Technologies
+
+`REST APIs` • `Microservices` • `JWT` • `JDBC` • `Agile/Scrum` • `CI/CD`
 
 ---
 
@@ -62,14 +85,14 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 **AI-powered full-stack emergency blood donation platform**
 
-* 🤖 Machine Learning-based donor eligibility prediction
-* 🔐 JWT-secured REST APIs
-* 🌐 React + Node.js + Express
-* 🐍 Python + Flask + Scikit-learn
-* 🗄️ MongoDB
-* 🐳 Dockerized services
-* ☁️ AWS EC2 deployment
-* ⚙️ GitHub Actions CI/CD
+* Machine Learning-based donor eligibility prediction
+* JWT-secured REST APIs
+* React + Node.js + Express
+* Python + Flask + Scikit-learn
+* MongoDB
+* Dockerized services
+* AWS EC2 deployment
+* GitHub Actions CI/CD
 
 ---
 
@@ -77,12 +100,12 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 **AI-powered resume evaluation and job matching platform**
 
-* 📄 Resume upload and parsing
-* 🎯 Job description matching
-* 🧠 AI-generated resume feedback
-* 📊 ATS-style analysis
-* 🔐 Secure authentication
-* 🌐 MERN stack + OpenAI API
+* Resume upload and parsing
+* Job description matching
+* AI-generated resume feedback
+* ATS-style analysis
+* Secure authentication
+* MERN stack + OpenAI API
 
 **Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `OpenAI`
 
@@ -92,11 +115,11 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 **AI-powered academic guidance and prediction application**
 
-* 🤖 AI chatbot for academic guidance
-* 📊 Student performance prediction
-* 🧠 Machine Learning integration
-* 💡 Personalized academic recommendations
-* 🌐 React + Python/Flask
+* AI chatbot for academic guidance
+* Student performance prediction
+* Machine Learning integration
+* Personalized academic recommendations
+* React + Python/Flask
 
 **Tech:** `React` `Python` `Flask` `Scikit-learn` `Pandas` `NumPy`
 
@@ -106,12 +129,12 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 **Android application for emergency blood donor matching**
 
-* 🩸 Donor and blood-bank management
-* 🏥 Emergency request management
-* 🔐 Role-based access
-* 🗺️ Graph-based donor matching
-* ⚡ Dijkstra's shortest-path algorithm
-* 🔔 Emergency notification workflows
+* Donor and blood-bank management
+* Emergency request management
+* Role-based access
+* Graph-based donor matching
+* Dijkstra's shortest-path algorithm
+* Emergency notification workflows
 
 **Tech:** `Java` `Android Studio` `SQLite` `Data Structures & Algorithms`
 
@@ -121,11 +144,12 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 **IoT-based milk quality monitoring system**
 
-* 🔬 Sensor-based milk spoilage detection
-* 📡 ESP-32 / Arduino
-* 🏷️ RFID-based milk collector identification
-* ☁️ Firebase integration
-* 📊 Real-time monitoring dashboard
+* Sensor-based milk spoilage detection
+* ESP-32 / Arduino
+* RFID-based milk collector identification
+* Firebase integration
+* Real-time monitoring dashboard
+* Real-time WhatsApp Notification 
 
 **Tech:** `ESP-32` `C++` `Arduino` `Node.js` `Firebase`
 
@@ -145,18 +169,18 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 ## 🏆 Certifications & Activities
 
-* 🐍 Certificate in Python Programming
-* 🌐 Certificate in Full-Stack Development (MERN) — Ongoing
-* ⚡ Team Leader — IoT-based Milk Spoilage Detection Research Project
-* 👥 Former Team Leader — AIESEC in NIBM
-* 💻 Student Member — IEEE Student Branch
+* Certificate in Python Programming
+* Certificate in Full-Stack Development (MERN) — Ongoing
+* Team Leader — IoT-based Milk Spoilage Detection Research Project
+* Former Team Leader — AIESEC in NIBM
+* Student Member — IEEE Student Branch
 
 ---
+<div align="center">
 
 ## 📫 Let's Connect
 
-<div align="center">
-
+<div>
 <a href="mailto:anuhansisithumini@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -168,15 +192,18 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 <a href="https://github.com/Sithumini-Anuhansi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 
+<div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sithumini-Anuhansi.Sithumini-Anuhansi&left_text=Profile%20Views" />
 </div>
 
 ---
-
-<div align="center">
 
 ### 💡 Learn by building • 🤖 Explore technology • 🚀 Keep improving
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
 
 </div>
+
+---
