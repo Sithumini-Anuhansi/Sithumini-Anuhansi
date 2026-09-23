@@ -6,7 +6,7 @@
 
 <br>
 
-### 💻 Software Engineering Student • 🌐 Full-Stack Developer • 🤖 AI & ML Enthusiast
+### 💻 Software Engineering Undergraduate • 🌐 Full-Stack Development • 🤖 AI & Machine Learning
 
 Building practical applications across **full-stack development, AI/ML, mobile development, IoT, and cloud technologies.**
 
@@ -24,119 +24,155 @@ Building practical applications across **full-stack development, AI/ML, mobile d
 
 ## 🌱 About Me
 
-I'm a **Software Engineering undergraduate at NIBM** with a strong interest in building practical software solutions.
+I'm a **Software Engineering undergraduate at NIBM**, Sri Lanka, passionate about building practical software solutions and exploring how AI can be integrated into real-world applications.
 
-I enjoy working across the stack — from designing **REST APIs and databases** to developing **web and mobile applications**, integrating **AI/ML**, and exploring cloud and DevOps technologies.
+I enjoy working across the stack — from designing **REST APIs and databases** to developing **web and mobile applications**, integrating **AI/ML**, and exploring IoT systems and Cloud/DevOps technologies.
 
-🎯 Currently focused on strengthening my software engineering skills and building projects that solve real-world problems.
+🎯 **Currently focused on:** strengthening my software engineering fundamentals, building practical projects, and preparing for opportunities in software development and AI-driven application development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Build
 
-### Development
+* Full-Stack Web Applications
+* AI-powered Applications
+* Machine Learning Projects
+* Backend & Authentication Systems
+* Android Applications
+* IoT & Embedded Systems
+* Database-driven Applications
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,react,nodejs,express,tailwindcss,spring,dotnet,c,php,laravel" />
+<img src="https://skillicons.dev/icons?i=js,java,python,cpp"/> 
 </p>
 
-`C#` • `OOP`•`Spring Boot` • `.NET` • `MVC`
+`C#`
 
-### Databases & Cloud
-
+### Web & Backend
+ 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-`Oracle`
+`Spring Boot` • `REST APIs`
 
 ### AI & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,flask" />
+<img src="https://skillicons.dev/icons?i=sklearn,flask" />
 </p>
 
-`Pandas` • `NumPy` • `AI Chatbots` • `Machine Learning` • `Google Colab`
+`Machine Learning` • `Pandas` • `NumPy` • `AI APIs` • `Google Colab`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+`Oracle`
 
 ### Mobile & IoT
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,arduino,cpp" />
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino,firebase" />
 </p>
 
-`XML` • `Android Studio` • `IoT` • `Arduino / ESP32`
-
-### Tools & Environments
+### Other
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,postman,windows,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 
-`NetBeans` • `Cursor` • `Claude` • `Lovable`
-
-### Other Technologies
-
-`REST APIs` • `Microservices` • `JWT` • `JDBC` • `Agile/Scrum` • `CI/CD`
+`Microservices` • `JWT` • `Agile/Scrum` • `CI/CD`
 
 ---
 
 # 🚀 Featured Projects
 
-### 🩸 Emergency Blood Network
-
-**AI-powered full-stack emergency blood donation platform**
-
-* Machine Learning-based donor eligibility prediction
-* JWT-secured REST APIs
-* React + Node.js + Express
-* Python + Flask + Scikit-learn
-* MongoDB
-* Dockerized services
-* AWS EC2 deployment
-* GitHub Actions CI/CD
-
----
-
 ### 🤖 AI Resume Analyzer
 
-**AI-powered resume evaluation and job matching platform**
+**MERN-based AI-powered resume analysis platform**
 
-* Resume upload and parsing
-* Job description matching
-* AI-generated resume feedback
-* ATS-style analysis
-* Secure authentication
-* MERN stack + OpenAI API
+A full-stack application that allows users to upload resumes, compare them against job descriptions, receive AI-generated insights, and track analysis results through a dashboard.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `OpenAI`
+Highlights:
+* Resume PDF/DOC/DOCX upload and parsing
+* AI-powered resume and job-description analysis
+* ATS-style scoring
+* Missing-skill identification
+* JWT authentication
+* MongoDB persistence
+* Analytics dashboard
+* Vercel + Render deployment
+
+🔗 **"View Project"** (https://github.com/Sithumini-Anuhansi/AI-Resume-Analyzer)
 
 ---
 
-### 🎓 AI Academic Advisor
+### 🩸 Emergency Blood Network
 
-**AI-powered academic guidance and prediction application**
+**AI-powered emergency blood donation and matching platform**
 
-* AI chatbot for academic guidance
-* Student performance prediction
+A full-stack system designed around emergency blood donation workflows, combining web technologies with AI/ML components.
+
+Highlights:
+* React + Node.js + Express
+* JWT-secured REST APIs
+* MongoDB
 * Machine Learning integration
-* Personalized academic recommendations
-* React + Python/Flask
+* Dockerized services
+* GitHub Actions CI/CD
+* Cloud deployment
 
-**Tech:** `React` `Python` `Flask` `Scikit-learn` `Pandas` `NumPy`
+🔗 **"View Project"** (https://github.com/Sithumini-Anuhansi/Emergency-Blood-Network)
 
 ---
 
-### 📱 Emergency Blood Matching Tool
+### 🔐 Secure User Authentication
 
-**Android application for emergency blood donor matching**
+**Backend-focused authentication and security project**
 
-* Donor and blood-bank management
-* Emergency request management
-* Role-based access
-* Graph-based donor matching
-* Dijkstra's shortest-path algorithm
-* Emergency notification workflows
+A security-focused application exploring modern authentication practices and backend security concepts.
 
-**Tech:** `Java` `Android Studio` `SQLite` `Data Structures & Algorithms`
+Highlights:
+* Access & refresh tokens
+* Token rotation
+* Password hashing
+* Account lockout
+* Rate limiting
+* Input validation
+* Password reset and email verification
+* API documentation
+* Automated testing
+* Docker and CI/CD
+
+🔗 **"View Project"** (https://github.com/Sithumini-Anuhansi/Secure-User-Authentication)
+
+---
+
+### 🌍 Tourism Application
+
+**Microservices-based tourism management platform**
+
+A distributed application designed around tourism-related services using Spring Boot and a microservices architecture.
+
+Highlights:
+* Spring Boot
+* Spring Cloud Gateway
+* REST APIs
+* JWT authentication
+* MySQL
+* JPA
+* Flyway
+* Docker & Docker Compose
+
+🔗 **"View Project"** (https://github.com/Sithumini-Anuhansi/Tourism-Application)
 
 ---
 
@@ -144,14 +180,37 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 
 **IoT-based milk quality monitoring system**
 
-* Sensor-based milk spoilage detection
-* ESP-32 / Arduino
-* RFID-based milk collector identification
-* Firebase integration
-* Real-time monitoring dashboard
-* Real-time WhatsApp Notification 
+An IoT ecosystem designed to monitor milk quality and support real-time monitoring and notifications.
 
-**Tech:** `ESP-32` `C++` `Arduino` `Node.js` `Firebase`
+Highlights:
+* ESP32 / Arduino
+* Sensor-based monitoring
+* RFID identification
+* Firebase integration
+* Real-time dashboard
+* Notification workflow
+* Node.js integration
+
+🔗 **"View Project"** (https://github.com/Sithumini-Anuhansi/MilkGuard-Ecosystem)
+
+---
+
+### 📊 Adult Census Income ML Comparison
+
+**Machine Learning model comparison and analysis**
+
+A machine learning project focused on analysing income-related census data and comparing different modelling approaches.
+
+Highlights:
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Multiple ML algorithms
+* Model evaluation and comparison
+* Feature importance analysis
+* Unsupervised learning exploration
+
+🔗 **"View Project"** (https://github.com/Sithumini-Anuhansi/Adult-Census-Income-ML-Comparison)
 
 ---
 
@@ -176,6 +235,30 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 * Student Member — IEEE Student Branch
 
 ---
+
+## 🌱 Currently Learning
+
+I'm continuously developing my skills in:
+
+* Full-stack application development
+* AI-powered software applications
+* Backend engineering
+* Machine learning
+* Cloud and deployment
+* DevOps and CI/CD
+* Modern AI-assisted development workflows
+
+---
+
+## 💡 My Approach
+
+**Learn by building. Build by solving real problems. Improve by understanding how things work.**
+
+I believe the best way to learn software engineering is by turning ideas into working applications, understanding the problems behind them, and continuously improving through hands-on development.
+
+
+---
+
 <div align="center">
 
 ## 📫 Let's Connect
