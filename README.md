@@ -6,7 +6,7 @@
 
 <br>
 
-### 💻 Software Engineering Undergraduate • 🌐 Full-Stack Development • 🤖 AI & Machine Learning
+#### 💻 Software Engineering Undergraduate • 🌐 Full-Stack Development • 🤖 AI & Machine Learning
 
 Building practical applications across **full-stack development, AI/ML, mobile development, IoT, and cloud technologies.**
 
