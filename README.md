@@ -14,7 +14,7 @@ Building practical applications across **full-stack development, AI/ML, mobile d
 
 ## 🔥 My GitHub Stats
 
-< img src="https://streak-stats.demolab.com?user=Sithumini-Anuhansi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&v=2" height="180" alt="streak graph" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Sithumini-Anuhansi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&v=2)
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
