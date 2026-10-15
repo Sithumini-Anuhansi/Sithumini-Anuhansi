@@ -49,10 +49,8 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 ### Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp"/> 
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cs,cpp"/> 
 </p>
-
-`C#`
 
 ### Web & Backend
  
@@ -76,7 +74,7 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
 </p>
 
-`Oracle`
+`MS SQL` • `Oracle DB`
 
 ### Mobile & IoT
 
@@ -84,12 +82,15 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 <img src="https://skillicons.dev/icons?i=androidstudio,arduino" />
 </p>
 
-### Other
+### Cloud & Version Control
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
-`Microservices` • `JWT` • `Agile/Scrum` • `CI/CD`
+### Software Engineering
+
+` MVC ` • ` .NET Framework ` • ` Microservices ` • ` OOP ` • ` JWT Authentication ` • ` Jest ` • ` Agile/Scrum ` • ` CI/CD `
 
 ---
 
