@@ -49,7 +49,7 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 ### Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,java,python,cpp"/> 
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp"/> 
 </p>
 
 `C#`
@@ -57,7 +57,7 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 ### Web & Backend
  
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 </p>
 
 `Spring Boot` • `REST APIs`
@@ -73,7 +73,7 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
 </p>
 
 `Oracle`
@@ -81,7 +81,7 @@ I enjoy working across the stack — from designing **REST APIs and databases** 
 ### Mobile & IoT
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,arduino,firebase" />
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino" />
 </p>
 
 ### Other
